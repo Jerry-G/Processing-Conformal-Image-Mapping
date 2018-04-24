@@ -5,4 +5,6 @@ One thing to note is the what is being graphed. In order to decide what color th
 
 Since I wrote most of the complex number logic, it might have some bugs. But nevertheless it produces some nice pictures. Here are a few of its results.
 
+test
+
 
