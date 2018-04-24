@@ -30,6 +30,12 @@ Since I wrote most of the complex number logic, it might have some bugs. But nev
   <img src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/03.jpg" width="256">
 </p>
 
+## ![f(z)=\sqrt[\imath]{z}](https://latex.codecogs.com/svg.latex?f(z)%3D%5Csqrt%5B%5Cimath%5D%7Bz%7D)
+
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/13.jpg" width="256">
+</p>
+
 ## ![f(z)=e^z](https://latex.codecogs.com/svg.latex?f(z)%3De%5Ez)
 
 <p align="center" >
@@ -70,6 +76,19 @@ Since I wrote most of the complex number logic, it might have some bugs. But nev
 
 <p align="center" >
   <img src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/10.jpg" width="256">
+</p>
+
+## ![f^{-1}(z)=\frac{ab}{32}+\imath b-a](https://latex.codecogs.com/svg.latex?f%5E%7B-1%7D(z)%3D%5Cfrac%7Bab%7D%7B32%7D%2B%5Cimath%20b-a) when ![a=Real(z)](https://latex.codecogs.com/svg.latex?a%3D%5CRe(z)) and ![b=Imag(z)](https://latex.codecogs.com/svg.latex?b%3D%5CIm(z))
+
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/11.jpg" width="256">
+</p>
+
+## ![](https://latex.codecogs.com/svg.latex?)
+## ![f^{-1}(z)=z^{(\frac{e^{\sin 1}}{2})}](https://latex.codecogs.com/svg.latex?f%5E%7B-1%7D(z)%3Dz%5E%7B(%5Cfrac%7Be%5E%7B%5Csin%201%7D%7D%7B2%7D)%7D)
+
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/12.jpg" width="256">
 </p>
 
 
