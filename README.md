@@ -32,7 +32,7 @@ Since I wrote most of the complex number logic, it might have some bugs. But nev
 
 ## ![f(z)=\sqrt[3]{e^z}](https://latex.codecogs.com/svg.latex?f(z)%3D%5Csqrt%5B3%5D%7Be%5Ez%7D)
 
-<img src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/06.jpg" width="256" align="center">
+<img align="center" src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/06.jpg" width="256" >
 
 
 
