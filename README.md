@@ -30,7 +30,7 @@ Since I wrote most of the complex number logic, it might have some bugs. But nev
   <img src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/03.jpg" width="256">
 </p>
 
-## ![f(z)=e^z](https://latex.codecogs.com/svg.latex?f(z)%3D%e%5Ez)
+## ![f(z)=e^z](https://latex.codecogs.com/svg.latex?f(z)%3De%5Ez)
 
 <p align="center" >
   <img src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/04.jpg" width="256">
