@@ -84,7 +84,6 @@ Since I wrote most of the complex number logic, it might have some bugs. But nev
   <img src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/11.jpg" width="256">
 </p>
 
-## ![](https://latex.codecogs.com/svg.latex?)
 ## ![f^{-1}(z)=z^{(\frac{e^{\sin 1}}{2})}](https://latex.codecogs.com/svg.latex?f%5E%7B-1%7D(z)%3Dz%5E%7B(%5Cfrac%7Be%5E%7B%5Csin%201%7D%7D%7B2%7D)%7D)
 
 <p align="center" >
