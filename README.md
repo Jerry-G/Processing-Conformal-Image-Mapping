@@ -16,6 +16,24 @@ Since I wrote most of the complex number logic, it might have some bugs. But nev
 
 ## ![f(z)=\sqrt[3]{z}](https://latex.codecogs.com/svg.latex?f(z)%3D%5Csqrt%5B3%5D%7Bz%7D)
 
-
 ![02.jpg](https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/02.jpg)
+
+## ![f(z)=\sqrt[4]{z}](https://latex.codecogs.com/svg.latex?f(z)%3D%5Csqrt%5B4%5D%7Bz%7D)
+
+![03.jpg](https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/03.jpg)
+
+## ![f(z)=e^z](https://latex.codecogs.com/svg.latex?e%5Ez)
+
+![04.jpg](https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/04.jpg)
+
+## ![f(z)=\sqrt{e^z}](https://latex.codecogs.com/svg.latex?f(z)%3D%5Csqrt%7Be%5Ez%7D)
+
+![05.jpg](https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/05.jpg)
+
+## ![f(z)=\sqrt[3]{e^z}](https://latex.codecogs.com/svg.latex?f(z)%3D%5Csqrt%5B3%5D%7Be%5Ez%7D)
+
+<p align="center" height="300" width="64">
+  <img src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/06.jpg">
+</p>
+
 
