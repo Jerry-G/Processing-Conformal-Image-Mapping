@@ -8,33 +8,63 @@ Since I wrote most of the complex number logic, it might have some bugs. But nev
 
 ## ![f(z)=z](https://latex.codecogs.com/svg.latex?f(x)%3Dz)
 
-![00.jpg](https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/00.jpg)
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/00.jpg" width="256">
+</p>
 
 ## ![f(z)=\sqrt{z}](https://latex.codecogs.com/svg.latex?f(x)%3D%5Csqrt%7Bz%7D)
 
-![01.jpg](https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/01.jpg)
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/01.jpg" width="256">
+</p>
 
 ## ![f(z)=\sqrt[3]{z}](https://latex.codecogs.com/svg.latex?f(z)%3D%5Csqrt%5B3%5D%7Bz%7D)
 
-![02.jpg](https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/02.jpg)
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/02.jpg" width="256">
+</p>
 
 ## ![f(z)=\sqrt[4]{z}](https://latex.codecogs.com/svg.latex?f(z)%3D%5Csqrt%5B4%5D%7Bz%7D)
 
-![03.jpg](https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/03.jpg)
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/03.jpg" width="256">
+</p>
 
 ## ![f(z)=e^z](https://latex.codecogs.com/svg.latex?e%5Ez)
 
-![04.jpg](https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/04.jpg)
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/04.jpg" width="256">
+</p>
 
 ## ![f(z)=\sqrt{e^z}](https://latex.codecogs.com/svg.latex?f(z)%3D%5Csqrt%7Be%5Ez%7D)
 
-![05.jpg](https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/05.jpg)
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/05.jpg" width="256">
+</p>
 
 ## ![f(z)=\sqrt[3]{e^z}](https://latex.codecogs.com/svg.latex?f(z)%3D%5Csqrt%5B3%5D%7Be%5Ez%7D)
-
 
 <p align="center" >
   <img src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/06.jpg" width="256">
 </p>
+
+## ![f(z)=\sqrt[4]{e^z}](https://latex.codecogs.com/svg.latex?f(z)%3D%5Csqrt%5B4%5D%7Be%5Ez%7D)
+
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/07.jpg" width="256">
+</p>
+
+## ![f(z)=\sqrt[5]{e^z}](https://latex.codecogs.com/svg.latex?f(z)%3D%5Csqrt%5B5%5D%7Be%5Ez%7D)
+
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/08.jpg" width="256">
+</p>
+
+## ![f(z)=\sqrt[18]{e^z}](https://latex.codecogs.com/svg.latex?f(z)%3D%5Csqrt%5B18%5D%7Be%5Ez%7D)
+
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/09.jpg" width="256">
+</p>
+
 
 
