@@ -6,11 +6,16 @@ One thing to note is the what is being graphed. In order to decide what color th
 Since I wrote most of the complex number logic, it might have some bugs. But nevertheless it produces some nice pictures. Here are a few of its results.
 
 
-# ![f(z)=z](https://latex.codecogs.com/svg.latex?f(x)%3Dz)
+## ![f(z)=z](https://latex.codecogs.com/svg.latex?f(x)%3Dz)
 
 ![00.jpg](https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/00.jpg)
 
-##![f(z)=\sqrt{z}](https://latex.codecogs.com/svg.latex?f(x)%3D%5Csqrt%7Bz%7D)
+## ![f(z)=\sqrt{z}](https://latex.codecogs.com/svg.latex?f(x)%3D%5Csqrt%7Bz%7D)
+
 ![01.jpg](https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/01.jpg)
 
+## ![f(z)=\sqrt[3]{z}](https://latex.codecogs.com/svg.latex?f(z)%3D%5Csqrt%5B3%5D%7Bz%7D)
+
+
+![02.jpg](https://raw.githubusercontent.com/Jerry-G/Processing-Conformal-Image-Mapping/master/img/02.jpg)
 
